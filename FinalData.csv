@@ -1,0 +1,245 @@
+,fullnames,group,Subject ID,separation,Age,Sex,Visit
+0,/Users/leodegeus/AlzheimerTCC/dataset/test/AD/ADNI_002_S_1018_MR_MPR____N3_Br_20070217032030504_S24312_I40827.nii.jpg,AD,002_S_1018,train,71.8,F,ADNI1
+1,/Users/leodegeus/AlzheimerTCC/dataset/test/AD/114_S_0228.jpg,AD,114_S_0228,train,80.3,F,ADNI Screening
+2,/Users/leodegeus/AlzheimerTCC/dataset/test/AD/114_S_0374.jpg,AD,114_S_0374,train,76.0,F,ADNI Screening
+3,/Users/leodegeus/AlzheimerTCC/dataset/test/AD/141_S_0790_e1.jpg,AD,141_S_0790,train,83.4,F,ADNI Screening
+4,/Users/leodegeus/AlzheimerTCC/dataset/test/AD/ADNI_005_S_0814_MR_MPR__GradWarp__B1_Correction_Br_20071219103937515_S43028_I85470.nii.jpg,AD,005_S_0814,train,72.2,F,ADNI1
+5,/Users/leodegeus/AlzheimerTCC/dataset/test/AD/141_S_0340_e1.jpg,AD,141_S_0340,train,83.9,F,ADNI Screening
+6,/Users/leodegeus/AlzheimerTCC/dataset/test/AD/141_S_1137.jpg,AD,141_S_1137,train,81.6,F,ADNI Screening
+7,/Users/leodegeus/AlzheimerTCC/dataset/test/AD/ADNI_011_S_0010_MR_MPR__GradWarp__B1_Correction_Br_20080229151415506_S45936_I94369.nii.jpg,AD,011_S_0010,train,75.0,F,ADNI1
+8,/Users/leodegeus/AlzheimerTCC/dataset/test/AD/141_S_0852_e1.jpg,AD,141_S_0852,train,84.4,F,ADNI Screening
+9,/Users/leodegeus/AlzheimerTCC/dataset/test/AD/099_S_0492.jpg,AD,099_S_0492,train,87.5,M,ADNI Screening
+10,/Users/leodegeus/AlzheimerTCC/dataset/test/AD/114_S_0979.jpg,AD,114_S_0979,train,86.3,M,ADNI Screening
+11,/Users/leodegeus/AlzheimerTCC/dataset/test/AD/128_S_0805.jpg,AD,128_S_0805,train,85.9,M,ADNI Screening
+12,/Users/leodegeus/AlzheimerTCC/dataset/test/AD/099_S_1144_e1.jpg,AD,099_S_1144,train,77.5,M,ADNI Screening
+13,/Users/leodegeus/AlzheimerTCC/dataset/test/AD/141_S_1024_e1.jpg,AD,141_S_1024,train,68.7,M,ADNI Screening
+14,/Users/leodegeus/AlzheimerTCC/dataset/test/AD/ADNI_002_S_0816_MR_MPR__GradWarp__B1_Correction__N3_Br_20080224131020606_S45030_I92145.nii.jpg,AD,002_S_0816,train,72.3,M,ADNI1
+15,/Users/leodegeus/AlzheimerTCC/dataset/test/AD/141_S_0696_e1.jpg,AD,141_S_0696,train,74.2,F,ADNI Screening
+16,/Users/leodegeus/AlzheimerTCC/dataset/test/AD/141_S_0853.jpg,AD,141_S_0853,train,86.8,M,ADNI Screening
+17,/Users/leodegeus/AlzheimerTCC/dataset/test/AD/141_S_1152.jpg,AD,141_S_1152,train,72.6,F,ADNI1
+18,/Users/leodegeus/AlzheimerTCC/dataset/test/AD/099_S_0352.jpg,AD,099_S_0352,train,77.1,F,ADNI Screening
+19,/Users/leodegeus/AlzheimerTCC/dataset/test/AD/109_S_0777.jpg,AD,109_S_0777,train,75.3,F,ADNI Screening
+20,/Users/leodegeus/AlzheimerTCC/dataset/test/AD/099_S_0470_e1.jpg,AD,099_S_0470,train,86.8,F,ADNI Screening
+21,/Users/leodegeus/AlzheimerTCC/dataset/test/AD/ADNI_023_S_0083_MR_MPR__GradWarp__B1_Correction__N3__Scaled_2_Br_20081001154135545_S24801_I118877.nii.jpg,AD,023_S_0083,train,74.3,M,ADNI1
+22,/Users/leodegeus/AlzheimerTCC/dataset/test/AD/109_S_1192.jpg,AD,109_S_1192,train,69.7,F,ADNI Screening
+23,/Users/leodegeus/AlzheimerTCC/dataset/test/AD/109_S_1157.jpg,AD,109_S_1157,train,85.0,F,ADNI Screening
+24,/Users/leodegeus/AlzheimerTCC/dataset/test/Normal/ADNI_023_S_0031_MR_MPR__GradWarp__B1_Correction__N3_Br_20070427181431287_S10010_I51926.nii.jpg,Normal,023_S_0031,train,77.8,F,ADNI Screening
+25,/Users/leodegeus/AlzheimerTCC/dataset/test/Normal/114_S_0166_e1.jpg,Normal,114_S_0166,train,73.6,F,ADNI1
+26,/Users/leodegeus/AlzheimerTCC/dataset/test/Normal/ADNI_011_S_0023_MR_MPR__GradWarp_Br_20070808155805125_S23152_I65895.nii.jpg,Normal,011_S_0023,train,72.9,M,ADNI1
+27,/Users/leodegeus/AlzheimerTCC/dataset/test/Normal/ADNI_023_S_0926_MR_MPR__GradWarp__B1_Correction_Br_20090312160844900_S20161_I138620.nii.jpg,Normal,023_S_0926,train,72.3,F,ADNI1
+28,/Users/leodegeus/AlzheimerTCC/dataset/test/Normal/099_S_0533.jpg,Normal,099_S_0533,train,81.1,F,ADNI Screening
+29,/Users/leodegeus/AlzheimerTCC/dataset/test/Normal/109_S_1013.jpg,Normal,109_S_1013,train,77.9,M,ADNI Screening
+30,/Users/leodegeus/AlzheimerTCC/dataset/test/Normal/114_S_0601_e1.jpg,Normal,114_S_0601,train,76.7,F,ADNI Screening
+31,/Users/leodegeus/AlzheimerTCC/dataset/test/Normal/141_S_1094.jpg,Normal,141_S_1094,train,76.0,M,ADNI Screening
+32,/Users/leodegeus/AlzheimerTCC/dataset/test/Normal/ADNI_007_S_1206_MR_MPR__GradWarp__B1_Correction_Br_20070713113753688_S25703_I59956.nii.jpg,Normal,007_S_1206,train,74.1,M,ADNI1
+33,/Users/leodegeus/AlzheimerTCC/dataset/test/Normal/941_S_1203_e1.jpg,Normal,941_S_1203,train,83.4,M,ADNI Screening
+34,/Users/leodegeus/AlzheimerTCC/dataset/test/Normal/ADNI_022_S_0130_MR_MPR__GradWarp__B1_Correction__N3_Br_20070727190705910_S27716_I62701.nii.jpg,Normal,022_S_0130,train,74.3,M,ADNI1
+35,/Users/leodegeus/AlzheimerTCC/dataset/test/Normal/141_S_0767.jpg,Normal,141_S_0767,train,74.3,F,ADNI1
+36,/Users/leodegeus/AlzheimerTCC/dataset/test/Normal/ADNI_002_S_1280_MR_MPR__GradWarp__B1_Correction__N3_Br_20090313142822434_S47412_I138889.nii.jpg,Normal,002_S_1280,train,71.9,F,ADNI1
+37,/Users/leodegeus/AlzheimerTCC/dataset/test/Normal/941_S_1202.jpg,Normal,941_S_1202,train,77.6,M,ADNI Screening
+38,/Users/leodegeus/AlzheimerTCC/dataset/test/Normal/109_S_1014.jpg,Normal,109_S_1014,train,85.0,F,ADNI Screening
+39,/Users/leodegeus/AlzheimerTCC/dataset/test/Normal/099_S_0534.jpg,Normal,099_S_0534,train,62.9,M,ADNI Screening
+40,/Users/leodegeus/AlzheimerTCC/dataset/test/Normal/141_S_0726_e1.jpg,Normal,141_S_0726,train,81.2,M,ADNI Screening
+41,/Users/leodegeus/AlzheimerTCC/dataset/test/Normal/ADNI_023_S_0963_MR_MPR__GradWarp__B1_Correction__N3__Scaled_Br_20071115092914271_S41267_I82195.nii.jpg,Normal,023_S_0963,train,73.6,M,ADNI1
+42,/Users/leodegeus/AlzheimerTCC/dataset/test/Normal/114_S_0173.jpg,Normal,114_S_0173,train,74.4,M,ADNI1
+43,/Users/leodegeus/AlzheimerTCC/dataset/test/Normal/114_S_0416.jpg,Normal,114_S_0416,train,73.7,F,ADNI1
+44,/Users/leodegeus/AlzheimerTCC/dataset/test/Normal/109_S_0876.jpg,Normal,109_S_0876,train,76.1,F,ADNI Screening
+45,/Users/leodegeus/AlzheimerTCC/dataset/test/Normal/109_S_0967_e1.jpg,Normal,109_S_0967,train,77.0,M,ADNI Screening
+46,/Users/leodegeus/AlzheimerTCC/dataset/test/Normal/128_S_0863.jpg,Normal,128_S_0863,train,79.3,M,ADNI Screening
+47,/Users/leodegeus/AlzheimerTCC/dataset/test/Normal/ADNI_011_S_0021_MR_MPR-R__GradWarp_Br_20061206175011814_S22064_I31976.nii.jpg,Normal,011_S_0021,train,73.8,F,ADNI1
+48,/Users/leodegeus/AlzheimerTCC/dataset/test/Normal/941_S_1194_e1.jpg,Normal,941_S_1194,train,84.9,M,ADNI Screening
+49,/Users/leodegeus/AlzheimerTCC/dataset/test/Normal/141_S_0717.jpg,Normal,141_S_0717,train,76.3,M,ADNI Screening
+50,/Users/leodegeus/AlzheimerTCC/dataset/test/Normal/ADNI_002_S_1261_MR_MPR-R__GradWarp__B1_Correction_Br_20080613103636218_S50897_I109399.nii.jpg,Normal,002_S_1261,train,72.5,F,ADNI1
+51,/Users/leodegeus/AlzheimerTCC/dataset/test/Normal/941_S_1197_e1.jpg,Normal,941_S_1197,train,82.5,F,ADNI Screening
+52,/Users/leodegeus/AlzheimerTCC/dataset/test/Normal/941_S_1195.jpg,Normal,941_S_1195,train,77.1,M,ADNI Screening
+53,/Users/leodegeus/AlzheimerTCC/dataset/test/Normal/141_S_0810.jpg,Normal,141_S_0810,train,83.5,M,ADNI Screening
+54,/Users/leodegeus/AlzheimerTCC/dataset/test/Normal/109_S_0840_e1.jpg,Normal,109_S_0840,train,76.2,F,ADNI Screening
+55,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_023_S_1262_MR_MPR-R__GradWarp__B1_Correction__N3__Scaled_Br_20070805140940607_S27243_I64862.nii.jpg,AD,023_S_1262,train,73.9,F,ADNI1
+56,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_094_S_1090_MR_MPR__GradWarp__B1_Correction_Br_20080220135925480_S44395_I91044.nii.jpg,AD,094_S_1090,train,72.4,M,ADNI1
+57,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_036_S_1001_MR_MPR__GradWarp_Br_20071221155538651_S43195_I85952.nii.jpg,AD,036_S_1001,train,70.5,M,ADNI1
+58,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_133_S_1170_MR_MPR__GradWarp__N3_Br_20080308133057672_S45064_I96325.nii.jpg,AD,133_S_1170,train,74.1,M,ADNI1
+59,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_123_S_0162_MR_MPR____N3_Br_20070809215805354_S31702_I66701.nii.jpg,AD,123_S_0162,train,73.1,M,ADNI1
+60,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_011_S_0183_MR_MPR-R__GradWarp__B1_Correction_Br_20080114104246876_S29328_I87329.nii.jpg,AD,011_S_0183,train,73.6,F,ADNI1
+61,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_067_S_1253_MR_MPR__GradWarp_Br_20080111161615993_S29241_I87158.nii.jpg,AD,067_S_1253,train,62.7,F,ADNI Screening
+62,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_128_S_0528_MR_MPR__GradWarp_Br_20070828142334529_S32423_I70840.nii.jpg,AD,128_S_0528,train,71.9,F,ADNI1
+63,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_031_S_1209_MR_MPR__GradWarp__N3_Br_20080224134211764_S45587_I92193.nii.jpg,AD,031_S_1209,train,73.1,F,ADNI1
+64,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_027_S_1385_MR_MPR__GradWarp_Br_20080408151549403_S47505_I101524.nii.jpg,AD,027_S_1385,train,70.6,F,ADNI1
+65,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_036_S_0760_MR_MPR-R__GradWarp__B1_Correction_Br_20071031133627916_S40123_I79918.nii.jpg,AD,036_S_0760,train,70.6,F,ADNI1
+66,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_123_S_0094_MR_MPR____N3__Scaled_2_Br_20081006155447996_S24976_I119306.nii.jpg,AD,123_S_0094,train,71.8,F,ADNI1
+67,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_094_S_1164_MR_MPR__GradWarp__B1_Correction__N3__Scaled_Br_20080220140841993_S44407_I91057.nii.jpg,AD,094_S_1164,train,70.6,F,ADNI1
+68,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_024_S_1171_MR_MPR-R__GradWarp__B1_Correction__N3_Br_20080223124946399_S44582_I91713.nii.jpg,AD,024_S_1171,train,72.6,M,ADNI1
+69,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/003_S_1059.jpg,AD,003_S_1059,train,84.6,F,ADNI Screening
+70,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_032_S_1101_MR_MPR__GradWarp__B1_Correction__N3_Br_20080220110715446_S25579_I90970.nii.jpg,AD,032_S_1101,train,72.0,F,ADNI1
+71,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/057_S_1371_e1.jpg,AD,057_S_1371,train,84.4,M,ADNI Screening
+72,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/073_S_0565_e1.jpg,AD,073_S_0565,train,74.7,M,ADNI Screening
+73,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_094_S_1402_MR_MPR-R__GradWarp__B1_Correction_Br_20080603180252600_S50488_I108260.nii.jpg,AD,094_S_1402,train,70.4,M,ADNI1
+74,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/011_S_0003.jpg,AD,011_S_0003,train,81.3,M,ADNI Screening
+75,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_067_S_0828_MR_MPR__GradWarp__B1_Correction_Br_20071229185854361_S22328_I86421.nii.jpg,AD,067_S_0828,train,77.5,F,ADNI Screening
+76,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_029_S_0999_MR_MPR__GradWarp__B1_Correction__N3__Scaled_Br_20080408154617402_S47074_I101575.nii.jpg,AD,029_S_0999,train,72.2,M,ADNI1
+77,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_137_S_1041_MR_MPR__GradWarp__N3_Br_20071227100051338_S43640_I86260.nii.jpg,AD,137_S_1041,train,72.1,M,ADNI1
+78,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_094_S_1027_MR_MPR__GradWarp__B1_Correction_Br_20080220135121226_S42881_I91025.nii.jpg,AD,094_S_1027,train,70.2,F,ADNI1
+79,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/067_S_0812_e1.jpg,AD,067_S_0812,train,71.7,F,ADNI Screening
+80,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_021_S_0343_MR_MPR__GradWarp__N3__Scaled_Br_20071219174234295_S30492_I85699.nii.jpg,AD,021_S_0343,train,72.9,M,ADNI1
+81,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_023_S_0139_MR_MPR__GradWarp__B1_Correction__N3_Br_20061201150217328_S11490_I31312.nii.jpg,AD,023_S_0139,train,65.9,F,ADNI Screening
+82,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_033_S_0889_MR_MPR__GradWarp__B1_Correction_Br_20071127175252930_S40968_I83485.nii.jpg,AD,033_S_0889,train,73.6,F,ADNI1
+83,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_029_S_1056_MR_MPR-R__GradWarp__B1_Correction__N3_Br_20080224133211890_S45642_I92181.nii.jpg,AD,029_S_1056,train,72.3,F,ADNI1
+84,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_128_S_0740_MR_MPR-R__GradWarp__B1_Correction__N3_Br_20080302131126589_S37660_I94912.nii.jpg,AD,128_S_0740,train,73.4,M,ADNI1
+85,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_067_S_1185_MR_MPR-R__GradWarp__B1_Correction_Br_20071229190824375_S25393_I86434.nii.jpg,AD,067_S_1185,train,62.1,M,ADNI Screening
+86,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/013_S_0699.jpg,AD,013_S_0699,train,82.2,M,ADNI Screening
+87,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/067_S_0029_e1.jpg,AD,067_S_0029,train,64.2,M,ADNI Screening
+88,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_068_S_0109_MR_MPR____N3_Br_20071125144239667_S28450_I83134.nii.jpg,AD,068_S_0109,train,71.4,F,ADNI1
+89,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_062_S_0730_MR_MPR__GradWarp__B1_Correction__N3_Br_20071221155835821_S37052_I85958.nii.jpg,AD,062_S_0730,train,71.8,F,ADNI1
+90,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/062_S_0535_e1.jpg,AD,062_S_0535,train,76.8,M,ADNI Screening
+91,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/041_S_1435_e1.jpg,AD,041_S_1435,train,82.4,M,ADNI Screening
+92,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/011_S_0053_e1.jpg,AD,011_S_0053,train,80.2,M,ADNI Screening
+93,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/041_S_1368_e1.jpg,AD,041_S_1368,train,75.3,F,ADNI Screening
+94,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/062_S_0690_e1.jpg,AD,062_S_0690,train,79.8,M,ADNI Screening
+95,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_031_S_0554_MR_MPR__GradWarp_Br_20080207102822957_S34026_I89758.nii.jpg,AD,031_S_0554,train,72.8,M,ADNI1
+96,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_027_S_1082_MR_MPR-R__GradWarp__B1_Correction__N3_Br_20071227094618687_S43334_I86240.nii.jpg,AD,027_S_1082,train,70.6,F,ADNI1
+97,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_130_S_1337_MR_MPR-R__GradWarp__B1_Correction__N3_Br_20080410110930382_S46816_I101960.nii.jpg,AD,130_S_1337,train,72.5,M,ADNI1
+98,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/057_S_1373_e2.jpg,AD,057_S_1373,train,75.5,M,ADNI Screening
+99,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/023_S_0916_e1.jpg,AD,023_S_0916,train,79.8,M,ADNI Screening
+100,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_023_S_1289_MR_MPR-R__GradWarp__B1_Correction_Br_20070322183801893_S26852_I46431.nii.jpg,AD,023_S_1289,train,77.5,F,ADNI Screening
+101,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_062_S_0793_MR_MPR__GradWarp_Br_20071115131146287_S39118_I82353.nii.jpg,AD,062_S_0793,train,70.1,M,ADNI1
+102,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_005_S_1341_MR_MPR__GradWarp__B1_Correction__N3__Scaled_Br_20080421171302115_S48768_I103336.nii.jpg,AD,005_S_1341,train,72.8,F,ADNI1
+103,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_126_S_1221_MR_MPR-R__GradWarp__B1_Correction_Br_20080223181234741_S45110_I91968.nii.jpg,AD,126_S_1221,train,72.3,M,ADNI1
+104,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/057_S_0474.jpg,AD,057_S_0474,train,77.4,F,ADNI Screening
+105,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_032_S_0400_MR_MPR____N3__Scaled_2_Br_20081003101628039_S32487_I119089.nii.jpg,AD,032_S_0400,train,70.4,M,ADNI1
+106,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/067_S_0110.jpg,AD,067_S_0110,train,82.7,F,ADNI Screening
+107,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/ADNI_036_S_0577_MR_MPR__GradWarp__B1_Correction__N3__Scaled_Br_20070910174433200_S33137_I72195.nii.jpg,AD,036_S_0577,train,73.5,F,ADNI1
+108,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/013_S_0996_e1.jpg,AD,013_S_0996,train,91.0,F,ADNI Screening
+109,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/016_S_0991.jpg,AD,016_S_0991,train,86.4,F,ADNI Screening
+110,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/036_S_0759_e1.jpg,AD,036_S_0759,train,81.8,F,ADNI Screening
+111,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/023_S_0093_e1.jpg,AD,023_S_0093,train,77.4,F,ADNI Screening
+112,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/041_S_1391.jpg,AD,041_S_1391,train,85.2,M,ADNI Screening
+113,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/003_S_1257_e1.jpg,AD,003_S_1257,train,85.1,M,ADNI Screening
+114,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/013_S_0592_e1.jpg,AD,013_S_0592,train,78.2,M,ADNI Screening
+115,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/082_S_1079_e1.jpg,AD,082_S_1079,train,78.1,M,ADNI Screening
+116,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/057_S_1379_e1.jpg,AD,057_S_1379,train,87.9,M,ADNI Screening
+117,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/067_S_0076.jpg,AD,067_S_0076,train,78.4,M,ADNI Screening
+118,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/082_S_1377.jpg,AD,082_S_1377,train,82.7,M,ADNI Screening
+119,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/022_S_0543.jpg,AD,022_S_0543,train,73.6,F,ADNI1
+120,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/022_S_0219.jpg,AD,022_S_0219,train,74.6,M,ADNI Screening
+121,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/023_S_0084.jpg,AD,023_S_0084,train,75.4,F,ADNI Screening
+122,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/035_S_0341.jpg,AD,035_S_0341,train,74.1,M,ADNI Screening
+123,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/051_S_1296_e1.jpg,AD,051_S_1296,train,77.0,M,ADNI Screening
+124,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/022_S_0129_e1.jpg,AD,022_S_0129,train,80.3,F,ADNI Screening
+125,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/073_S_1207.jpg,AD,073_S_1207,train,56.6,F,ADNI Screening
+126,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/013_S_1205_e1.jpg,AD,013_S_1205,train,83.1,M,ADNI Screening
+127,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/099_S_0372.jpg,AD,099_S_0372,train,79.1,M,ADNI Screening
+128,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/016_S_1263.jpg,AD,016_S_1263,train,64.9,F,ADNI Screening
+129,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/022_S_0007.jpg,AD,022_S_0007,train,75.5,M,ADNI Screening
+130,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/067_S_0020_e1.jpg,AD,067_S_0020,train,72.4,F,ADNI Screening
+131,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/013_S_1161.jpg,AD,013_S_1161,train,79.9,M,ADNI Screening
+132,/Users/leodegeus/AlzheimerTCC/dataset/train/AD/020_S_0213.jpg,AD,020_S_0213,train,63.1,M,ADNI Screening
+133,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_082_S_1256_MR_MPR-R__GradWarp__B1_Correction__N3_Br_20080605162822525_S50836_I108582.nii.jpg,Normal,082_S_1256,train,72.7,F,ADNI1
+134,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/022_S_0096.jpg,Normal,022_S_0096,train,79.8,M,ADNI Screening
+135,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_007_S_1222_MR_MPR__GradWarp_Br_20080307173549157_S46093_I96044.nii.jpg,Normal,007_S_1222,train,74.5,F,ADNI1
+136,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_023_S_0058_MR_MPR-R__GradWarp__B1_Correction__N3_Br_20061130134529421_S10499_I30972.nii.jpg,Normal,023_S_0058,train,71.3,M,ADNI1
+137,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_011_S_0005_MR_MPR-R__GradWarp__B1_Correction__N3_Br_20061206164207842_S19040_I31910.nii.jpg,Normal,011_S_0005,train,74.8,M,ADNI1
+138,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_036_S_0813_MR_MPR__GradWarp__B1_Correction__N3_Br_20071031133813179_S40100_I79921.nii.jpg,Normal,036_S_0813,train,74.0,M,ADNI1
+139,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_128_S_1242_MR_MPR-R__GradWarp__B1_Correction__N3_Br_20080514111141310_S47330_I105432.nii.jpg,Normal,128_S_1242,train,72.3,F,ADNI1
+140,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_068_S_0127_MR_MPR____N3_Br_20070828131122432_S29010_I70757.nii.jpg,Normal,068_S_0127,train,71.9,M,ADNI1
+141,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_027_S_0120_MR_MPR__GradWarp_Br_20070327105957747_S26731_I47020.nii.jpg,Normal,027_S_0120,train,73.2,M,ADNI1
+142,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_116_S_1249_MR_MPR-R__GradWarp_Br_20080321160405683_S45481_I99269.nii.jpg,Normal,116_S_1249,train,71.9,F,ADNI1
+143,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_032_S_0095_MR_MPR____N3__Scaled_Br_20071115121640476_S27719_I82283.nii.jpg,Normal,032_S_0095,train,72.4,M,ADNI1
+144,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_133_S_0488_MR_MPR__GradWarp_Br_20080207105417567_S34918_I89793.nii.jpg,Normal,133_S_0488,train,72.2,F,ADNI1
+145,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_129_S_0778_MR_MPR__GradWarp_Br_20071113182846920_S40901_I81965.nii.jpg,Normal,129_S_0778,train,73.7,M,ADNI1
+146,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_131_S_0441_MR_MPR-R__GradWarp__B1_Correction_Br_20070904214706723_S33587_I71665.nii.jpg,Normal,131_S_0441,train,73.9,F,ADNI1
+147,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_133_S_0525_MR_MPR__GradWarp__N3_Br_20070213224436827_S16414_I39988.nii.jpg,Normal,133_S_0525,train,71.3,F,ADNI1
+148,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_123_S_0106_MR_MPR-R____N3_Br_20070809213508063_S25536_I66684.nii.jpg,Normal,123_S_0106,train,74.3,F,ADNI1
+149,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_051_S_1123_MR_MPR-R__GradWarp_Br_20070628171643570_S25974_I58060.nii.jpg,Normal,051_S_1123,train,76.0,F,ADNI Screening
+150,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/020_S_0097_e1.jpg,Normal,020_S_0097,train,74.0,F,ADNI1
+151,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/057_S_0818_e1.jpg,Normal,057_S_0818,train,74.1,F,ADNI Screening
+152,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_068_S_0210_MR_MPR____N3_Br_20070911105148710_S32626_I72431.nii.jpg,Normal,068_S_0210,train,73.7,F,ADNI1
+153,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/035_S_0048.jpg,Normal,035_S_0048,train,78.4,M,ADNI Screening
+154,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_131_S_1301_MR_MPR__GradWarp__B1_Correction__N3_Br_20080415154037720_S47966_I102826.nii.jpg,Normal,131_S_1301,train,73.3,F,ADNI1
+155,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_005_S_0602_MR_MPR-R__GradWarp__B1_Correction_Br_20070921135050900_S37071_I74209.nii.jpg,Normal,005_S_0602,train,72.1,M,ADNI1
+156,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_094_S_1241_MR_MPR-R__GradWarp__B1_Correction__N3_Br_20080410144359660_S47204_I102090.nii.jpg,Normal,094_S_1241,train,73.3,M,ADNI1
+157,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_032_S_0479_MR_MPR____N3_Br_20071029191312996_S33439_I79617.nii.jpg,Normal,032_S_0479,train,74.6,F,ADNI1
+158,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_116_S_1232_MR_MPR__GradWarp__B1_Correction_Br_20080223173109343_S45145_I91913.nii.jpg,Normal,116_S_1232,train,73.2,F,ADNI1
+159,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/057_S_0934.jpg,Normal,057_S_0934,train,71.2,F,ADNI1
+160,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_067_S_0059_MR_MPR-R__GradWarp__B1_Correction_Br_20070730192704227_S24383_I63028.nii.jpg,Normal,067_S_0059,train,72.0,F,ADNI1
+161,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_052_S_1250_MR_MPR-R__GradWarp__B1_Correction__N3__Scaled_Br_20080223165814045_S44924_I91864.nii.jpg,Normal,052_S_1250,train,74.3,F,ADNI1
+162,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_029_S_0843_MR_MPR__GradWarp__B1_Correction_Br_20080124151616395_S42904_I88418.nii.jpg,Normal,029_S_0843,train,71.8,M,ADNI1
+163,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_067_S_0056_MR_MPR__GradWarp__B1_Correction_Br_20070802200302868_S24368_I64270.nii.jpg,Normal,067_S_0056,train,70.8,F,ADNI1
+164,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_032_S_0677_MR_MPR__GradWarp__B1_Correction__N3_Br_20070917105425365_S35547_I73346.nii.jpg,Normal,032_S_0677,train,72.0,M,ADNI1
+165,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_006_S_0498_MR_MPR__GradWarp__B1_Correction__N3__Scaled_Br_20071115083602888_S39971_I82105.nii.jpg,Normal,006_S_0498,train,71.9,M,ADNI1
+166,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/099_S_0040_e1.jpg,Normal,099_S_0040,train,74.5,M,ADNI1
+167,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_130_S_0969_MR_MPR-R____N3_Br_20070211003615906_S22654_I39295.nii.jpg,Normal,130_S_0969,train,71.1,M,ADNI1
+168,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/013_S_1035.jpg,Normal,013_S_1035,train,87.3,M,ADNI Screening
+169,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/013_S_0575_e1.jpg,Normal,013_S_0575,train,86.5,F,ADNI Screening
+170,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_123_S_0072_MR_MPR____N3_Br_20070809211722870_S25240_I66671.nii.jpg,Normal,123_S_0072,train,71.8,M,ADNI1
+171,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_057_S_0643_MR_MPR-R__GradWarp__B1_Correction__N3_Br_20070917111206875_S35296_I73370.nii.jpg,Normal,057_S_0643,train,72.5,F,ADNI1
+172,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_127_S_0259_MR_MPR__GradWarp_Br_20070808204456909_S29124_I66192.nii.jpg,Normal,127_S_0259,train,71.7,M,ADNI1
+173,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_131_S_0123_MR_MPR__GradWarp__B1_Correction__N3_Br_20070828150946944_S26596_I70875.nii.jpg,Normal,131_S_0123,train,74.5,M,ADNI1
+174,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/011_S_0016_e1.jpg,Normal,011_S_0016,train,65.5,M,ADNI Screening
+175,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_094_S_1267_MR_MPR__GradWarp__B1_Correction_Br_20080409162237698_S47723_I101748.nii.jpg,Normal,094_S_1267,train,74.4,M,ADNI1
+176,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_033_S_1098_MR_MPR__GradWarp__B1_Correction__N3__Scaled_Br_20080107135003058_S43311_I86698.nii.jpg,Normal,033_S_1098,train,73.1,F,ADNI1
+177,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_041_S_0125_MR_MPR-R__GradWarp_Br_20070813172127204_S25733_I67528.nii.jpg,Normal,041_S_0125,train,74.9,M,ADNI1
+178,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/011_S_0008_e1.jpg,Normal,011_S_0008,train,84.6,F,ADNI Screening
+179,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_137_S_0301_MR_MPR__GradWarp__N3__Scaled_Br_20080131112324995_S31819_I89089.nii.jpg,Normal,137_S_0301,train,74.7,F,ADNI1
+180,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_073_S_0386_MR_MPR__GradWarp__B1_Correction__N3_Br_20070911114615763_S33403_I72498.nii.jpg,Normal,073_S_0386,train,73.6,F,ADNI1
+181,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_098_S_0172_MR_MPR__GradWarp__B1_Correction_Br_20070605151646264_S29765_I56014.nii.jpg,Normal,098_S_0172,train,71.8,F,ADNI1
+182,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/011_S_0002.jpg,Normal,011_S_0002,train,74.5,M,ADNI Screening
+183,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_082_S_0640_MR_MPR-R__GradWarp__B1_Correction__N3_Br_20070213181212916_S17278_I39771.nii.jpg,Normal,082_S_0640,train,73.0,F,ADNI Screening
+184,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_013_S_1276_MR_MPR__GradWarp__N3__Scaled_Br_20070904184203083_S29149_I71395.nii.jpg,Normal,013_S_1276,train,71.9,F,ADNI Screening
+185,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_009_S_0842_MR_MPR-R__GradWarp__N3_Br_20081016184830924_S50547_I121586.nii.jpg,Normal,009_S_0842,train,74.8,M,ADNI1
+186,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/082_S_0761_e1.jpg,Normal,082_S_0761,train,71.0,M,ADNI Screening
+187,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_020_S_1288_MR_MPR__GradWarp__B1_Correction__N3__Scaled_Br_20070718121735033_S28081_I60641.nii.jpg,Normal,020_S_1288,train,60.0,M,ADNI Screening
+188,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/011_S_0022_e1.jpg,Normal,011_S_0022,train,63.3,M,ADNI Screening
+189,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_032_S_1169_MR_MPR__GradWarp__B1_Correction__N3_Br_20080229161945447_S44666_I94475.nii.jpg,Normal,032_S_1169,train,73.3,F,ADNI1
+190,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_100_S_0069_MR_MPR____N3_Br_20070727122520226_S24912_I62338.nii.jpg,Normal,100_S_0069,train,74.1,M,ADNI1
+191,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_010_S_0472_MR_MPR____N3_Br_20080302132728139_S42848_I94943.nii.jpg,Normal,010_S_0472,train,73.5,M,ADNI1
+192,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_021_S_0647_MR_MPR-R__GradWarp__N3_Br_20070904193526013_S36848_I71469.nii.jpg,Normal,021_S_0647,train,74.0,M,ADNI1
+193,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_137_S_0686_MR_MPR__GradWarp__N3__Scaled_Br_20070922112140022_S37808_I74550.nii.jpg,Normal,137_S_0686,train,73.3,M,ADNI1
+194,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_137_S_0459_MR_MPR__GradWarp__N3_Br_20080131112906491_S32374_I89095.nii.jpg,Normal,137_S_0459,train,74.1,M,ADNI1
+195,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/036_S_0576_e1.jpg,Normal,036_S_0576,train,77.6,M,ADNI Screening
+196,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_082_S_0304_MR_MPR__GradWarp__B1_Correction__N3_Br_20071006122028133_S13009_I77068.nii.jpg,Normal,082_S_0304,train,70.9,F,ADNI Screening
+197,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_037_S_0327_MR_MPR__GradWarp_Br_20070910175138265_S32632_I72205.nii.jpg,Normal,037_S_0327,train,71.3,M,ADNI1
+198,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/003_S_1021_e1.jpg,Normal,003_S_1021,train,87.0,F,ADNI Screening
+199,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_006_S_0731_MR_MPR-R__GradWarp_Br_20071027123835705_S38846_I78733.nii.jpg,Normal,006_S_0731,train,72.7,M,ADNI1
+200,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_009_S_0862_MR_MPR__GradWarp__N3__Scaled_Br_20081016185334930_S50553_I121591.nii.jpg,Normal,009_S_0862,train,74.6,F,ADNI1
+201,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_128_S_0272_MR_MPR__GradWarp__B1_Correction_Br_20070820132445077_S31632_I69221.nii.jpg,Normal,128_S_0272,train,71.6,F,ADNI1
+202,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/016_S_0538.jpg,Normal,016_S_0538,train,83.0,M,ADNI Screening
+203,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_099_S_0090_MR_MPR-R__GradWarp__B1_Correction__N3_Br_20080414114526090_S26174_I102435.nii.jpg,Normal,099_S_0090,train,71.1,M,ADNI1
+204,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_116_S_0648_MR_MPR__GradWarp__N3_Br_20070912174532327_S36409_I72813.nii.jpg,Normal,116_S_0648,train,72.6,F,ADNI1
+205,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/073_S_0312_e1.jpg,Normal,073_S_0312,train,83.0,M,ADNI Screening
+206,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_014_S_0548_MR_MPR__GradWarp__B1_Correction_Br_20070904185516893_S33498_I71413.nii.jpg,Normal,014_S_0548,train,74.8,F,ADNI1
+207,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_068_S_0473_MR_MPR____N3__Scaled_Br_20070911110632838_S31558_I72444.nii.jpg,Normal,068_S_0473,train,73.7,M,ADNI1
+208,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_067_S_0019_MR_MPR-R__GradWarp_Br_20070802195423612_S23696_I64257.nii.jpg,Normal,067_S_0019,train,74.3,F,ADNI1
+209,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_023_S_0061_MR_MPR-R__GradWarp_Br_20061130184002634_S10634_I31113.nii.jpg,Normal,023_S_0061,train,77.2,F,ADNI Screening
+210,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_130_S_0886_MR_MPR-R____N3_Br_20070211002833596_S20151_I39289.nii.jpg,Normal,130_S_0886,train,72.4,F,ADNI1
+211,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_023_S_1190_MR_MPR__GradWarp__B1_Correction_Br_20070427203530085_S25153_I52130.nii.jpg,Normal,023_S_1190,train,76.6,F,ADNI Screening
+212,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/013_S_0502.jpg,Normal,013_S_0502,train,75.1,M,ADNI Screening
+213,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/041_S_0262_e1.jpg,Normal,041_S_0262,train,85.9,M,ADNI Screening
+214,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/067_S_0257_e1.jpg,Normal,067_S_0257,train,78.7,F,ADNI Screening
+215,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/067_S_0177.jpg,Normal,067_S_0177,train,75.0,F,ADNI Screening
+216,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/073_S_0089.jpg,Normal,073_S_0089,train,65.2,M,ADNI Screening
+217,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/003_S_0907.jpg,Normal,003_S_0907,train,88.8,F,ADNI Screening
+218,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/023_S_1306_e1.jpg,Normal,023_S_1306,train,74.6,F,ADNI Screening
+219,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/022_S_0014_e1.jpg,Normal,022_S_0014,train,78.6,F,ADNI Screening
+220,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_033_S_0734_MR_MPR-R__GradWarp__B1_Correction_Br_20070921085146057_S37351_I74010.nii.jpg,Normal,033_S_0734,train,73.7,M,ADNI1
+221,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/016_S_0359.jpg,Normal,016_S_0359,train,81.4,F,ADNI Screening
+222,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_010_S_0419_MR_MPR____N3_Br_20070910171352419_S34076_I72158.nii.jpg,Normal,010_S_0419,train,71.4,M,ADNI1
+223,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/023_S_0081_e1.jpg,Normal,023_S_0081,train,71.7,M,ADNI1
+224,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/041_S_1002_e1.jpg,Normal,041_S_1002,train,76.5,F,ADNI Screening
+225,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/062_S_0578_e1.jpg,Normal,062_S_0578,train,77.1,F,ADNI Screening
+226,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_072_S_0315_MR_MPR____N3__Scaled_Br_20070828134247958_S32161_I70789.nii.jpg,Normal,072_S_0315,train,72.8,M,ADNI1
+227,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/073_S_0311.jpg,Normal,073_S_0311,train,78.2,F,ADNI Screening
+228,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/020_S_0899_e2.jpg,Normal,020_S_0899,train,80.2,F,ADNI Screening
+229,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/035_S_0156.jpg,Normal,035_S_0156,train,74.2,M,ADNI Screening
+230,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/057_S_0779.jpg,Normal,057_S_0779,train,79.6,M,ADNI Screening
+231,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/003_S_0981_e1.jpg,Normal,003_S_0981,train,84.4,F,ADNI Screening
+232,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/041_S_0898.jpg,Normal,041_S_0898,train,83.3,F,ADNI Screening
+233,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/003_S_0931.jpg,Normal,003_S_0931,train,86.2,F,ADNI Screening
+234,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/ADNI_009_S_0751_MR_MPR__GradWarp__N3_Br_20071028205057132_S38625_I79274.nii.jpg,Normal,009_S_0751,train,72.0,M,ADNI1
+235,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/035_S_0555.jpg,Normal,035_S_0555,train,76.7,M,ADNI Screening
+236,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/036_S_1023_e1.jpg,Normal,036_S_1023,train,77.2,F,ADNI Screening
+237,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/067_S_0024_e1.jpg,Normal,067_S_0024,train,79.7,F,ADNI Screening
+238,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/082_S_0363_e1.jpg,Normal,082_S_0363,train,71.7,F,ADNI Screening
+239,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/022_S_0066.jpg,Normal,022_S_0066,train,74.6,M,ADNI Screening
+240,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/036_S_0672.jpg,Normal,036_S_0672,train,62.2,F,ADNI Screening
+241,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/020_S_0883_e2.jpg,Normal,020_S_0883,train,76.1,F,ADNI Screening
+242,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/062_S_1099_e1.jpg,Normal,062_S_1099,train,79.3,F,ADNI Screening
+243,/Users/leodegeus/AlzheimerTCC/dataset/train/Normal/062_S_0768.jpg,Normal,062_S_0768,train,77.3,M,ADNI Screening

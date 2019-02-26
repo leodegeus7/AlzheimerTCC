@@ -10,8 +10,9 @@
   "results"         : "output/flowers_17/inceptionv3/results.txt",
   "classifier_path" : "output/flowers_17/inceptionv3/classifier.pickle",
   "model_path"      : "output/flowers_17/inceptionv3/model",
+  "matrix_path"     : "output/flowers_17/inceptionv3/matrix.png",
 
-  "test_size"       : 0.23,
+  "test_size"       : 0.30,
   "seed"            : 9,
   "num_classes"     : 2
 }
